@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 1600 Tagged Objects
+Description: ISO SC9 WG1 160 Tagged Objects
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 1600 Tagged Objects
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-TaggedObject.msli
+State: A
+

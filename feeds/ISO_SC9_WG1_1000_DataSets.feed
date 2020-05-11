@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 1000 DataSets
+Description: ISO SC9 WG1 100 DataSets
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 1000 DataSets
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-Data*.msli
+State: A
+

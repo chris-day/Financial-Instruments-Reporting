@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 1440 Business Domains Transform
+Description: ISO SC9 WG1 144 Business Domains Transform
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 1440 Business Domains Transform
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-BD-Transform.msli
+State: A
+

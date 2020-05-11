@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 0700 Business Roles Terms and Groups
+Description: ISO SC9 WG1 070 Buiness Roles Terms and Groups
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 0700 Business Roles Terms and Groups
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-BusinessRole-*.msli
+State: A
+

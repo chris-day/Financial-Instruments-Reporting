@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 0200 Domains
+Description: ISO SC9 WG1 020 Domains
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 0200 Domains
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-dd-*.msli
+State: A
+

@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 1900 Business Area BizTerms
+Description: ISO SC9 WG1 190 Business Area BizTerms - based upon BAcode and BizTerms assigned to Message Definitions
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 1900 Business Area BizTerms
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-BusinessArea-BizTerm*.msli
+State: A
+

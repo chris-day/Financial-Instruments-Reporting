@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 1240 Message Building Blocks Transform
+Description: ISO SC9 WG1 124 Message Building Blocks Transform
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 1240 Message Building Blocks Transform
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-08-Transform.msli
+State: A
+

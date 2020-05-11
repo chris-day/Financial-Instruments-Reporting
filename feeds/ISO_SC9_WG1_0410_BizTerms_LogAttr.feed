@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 0410 BizTerms LogAttr
+Description: ISO SC9 WG1 041 BizTerms LogAttr
+ImportRule: Standard MSLI ENRICH_OBJECT for LogAttr-1
+ImportConnection: 
+Definition: ISO SC9 WG1 0410 BizTerms LogAttr
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-040-BizTerm-LogAttr.msli
+State: A
+

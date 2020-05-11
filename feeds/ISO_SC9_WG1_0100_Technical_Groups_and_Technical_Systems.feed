@@ -1,0 +1,9 @@
+Name: ISO SC9 WG1 0100 Technical Groups and Technical Systems
+Description: ISO SC9 WG1 010 Technical Groups and Technical Systems
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 0100 Technical Groups and Technical Systems
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-Tech*.msli
+importRule: 
+State: A
+

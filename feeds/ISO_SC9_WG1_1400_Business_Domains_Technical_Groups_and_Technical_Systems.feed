@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 1400 Business Domains Technical Groups and Technical Systems
+Description: ISO SC9 WG1 140 Business Domains Technical Groups and Technical Systems
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 1400 Business Domains Technical Groups and Technical Systems
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-BD-TechGroup.msli
+State: A
+

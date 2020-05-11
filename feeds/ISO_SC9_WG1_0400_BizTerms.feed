@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 0400 BizTerms
+Description: ISO SC9 WG1 040 BizTerms
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 0400 BizTerms
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-BizTerm*.msli
+State: A
+

@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 1700 Golden BizTerm DataElem
+Description: ISO SC9 WG1 170 Golden BizTerm DataElem
+ImportRule: Enrich BizTerm Golden DataElem Import
+ImportConnection: 
+Definition: ISO SC9 WG1 1700 Golden BizTerm DataElem
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-GoldenDataElem-BizTerm.msli
+State: A
+

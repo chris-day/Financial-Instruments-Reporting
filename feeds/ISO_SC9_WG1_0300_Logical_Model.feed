@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 0300 Logical Model
+Description: ISO SC9 WG1 030 Logical Model
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 0300 Logical Model
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-Log*.msli
+State: A
+

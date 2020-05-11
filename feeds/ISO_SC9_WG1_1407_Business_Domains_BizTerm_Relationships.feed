@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 1407 Business Domains BizTerm Relationships
+Description: ISO SC9 WG1 149 Business Domains BizTerm Relationships   ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-BD-BizTermXref.msli
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 1407 Business Domains BizTerm Relationships
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-BD-BizTermXref.msli
+State: A
+

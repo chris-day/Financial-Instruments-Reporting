@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 1220 Message Building Blocks InputOutputDatasets
+Description: ISO SC9 WG1 122 Message Building Blocks Input and Output Datasets
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 1220 Message Building Blocks InputOutputDatasets
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-08-ExecutableInputDataSet.msli ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-08-ExecutableOutputDataSet.msli
+State: A
+

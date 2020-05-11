@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 1405 Business Domains BizTerm Groups
+Description: ISO SC9 WG1 147 Business Domains BizTerm Groups
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 1405 Business Domains BizTerm Groups
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-BD-BizTermGroup.msli
+State: A
+

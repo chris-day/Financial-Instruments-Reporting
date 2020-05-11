@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 1300 Transformations
+Description: ISO SC9 WG1 130 Transformations
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 1300 Transformations
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-06*.msli
+State: A
+

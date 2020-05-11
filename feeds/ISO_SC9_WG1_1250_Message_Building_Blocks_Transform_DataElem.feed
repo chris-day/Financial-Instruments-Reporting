@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 1250 Message Building Blocks Transform DataElem
+Description: ISO SC9 WG1 125 Message Building Blocks Transform Data Element
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 1250 Message Building Blocks Transform DataElem
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-08-TransformDataElem.msli
+State: A
+

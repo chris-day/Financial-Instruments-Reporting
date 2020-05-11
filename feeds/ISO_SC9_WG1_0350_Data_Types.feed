@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 0350 Data Types
+Description: ISO SC9 WG1 050 Data Types
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 0350 Data Types
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-DT-*.msli
+State: A
+

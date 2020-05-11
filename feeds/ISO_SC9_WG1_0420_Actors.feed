@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 0420 Actors
+Description: ISO SC9 WG1 042 Actors
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 0420 Actors
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-Actors*.msli
+State: A
+

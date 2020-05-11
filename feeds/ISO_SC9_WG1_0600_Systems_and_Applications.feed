@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 0600 Systems and Applications
+Description: ISO SC9 WG1 060 Systems and Applications
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 0600 Systems and Applications
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-System.msli ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-Application.msli
+State: A
+

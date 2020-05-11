@@ -1,0 +1,8 @@
+Name: ISO SC9 WG1 1420 Business Domains Executable
+Description: ISO SC9 WG1 142 Business Domains Executable
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: ISO SC9 WG1 1420 Business Domains Executable
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/isosc9wg1poc-BD-Executable.msli
+State: A
+
