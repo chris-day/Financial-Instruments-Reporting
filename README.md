@@ -28,12 +28,14 @@ Download the repository using Git.
 	done
 
 
-### Add a site parameter called MHHUB_ENV_DATA_ROOT
+### Add a site parameter called MHUB_ENV_DATA_ROOT
 
 The use of the site parameter called MHUB_ENV_DATA_ROOT is for parameterisation of the location of MSLI files  
 
-	mh-import site-parameters add -name MHHUB_ENV_DATA_ROOT -value /your/location/on/disk/here 
+	mh-import site-parameters add -name MHUB_ENV_DATA_ROOT -value /your/location/on/disk/here 
 
 ### Run the feed import script
 
 Witin the run directory is a script called run-me.ksh that will load, submit and approve the feeds in the correct order.
+
+Note the use of the BizTermType BDE (Business Data Element), if you haven't create this, then please do so.
