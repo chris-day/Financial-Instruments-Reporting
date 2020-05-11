@@ -39,3 +39,7 @@ The use of the site parameter called MHUB_ENV_DATA_ROOT is for parameterisation 
 Witin the run directory is a script called run-me.ksh that will load, submit and approve the feeds in the correct order.
 
 Note the use of the BizTermType BDE (Business Data Element), if you haven't create this, then please do so.
+
+## Like this ?
+
+Please feel free to [make a donation](https://www.paypal.me/chrisdayai/5)
